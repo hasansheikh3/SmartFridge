@@ -1,1 +1,2 @@
-# SmartFRidge
+# SmartFridge
+Python Web Server
